@@ -1,6 +1,6 @@
 .. pub: 1
 .. link: 
-.. description: 
+.. description: Roadmap for Arctica Development
 .. tags: 
 .. date: 2015/05/14 06:18:30
 .. title: Roadmap
