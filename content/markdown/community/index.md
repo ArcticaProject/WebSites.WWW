@@ -16,8 +16,8 @@ We invite you to get in touch with us...
 
 ### IRC
 
-The primary communication medium currently is IRC. Please join us on the
-#arctica channel on Freenode.
+The primary communication medium currently is IRC. Please join us on
+the #arctica channel on Freenode.
 
 ### Mailing lists
 
