@@ -1,8 +1,8 @@
 .. pub: 1
 .. description: Event driven session managment and more.
-.. title: The Arctica Greeter
+.. title: Arctica Greeter
 
-# The Arctica Greeter 
+# Arctica Greeter 
 
 A greeter shell for the LightDM login manager. Arctica Greeter can be used as
 local display manager as well as thin client login manager.
