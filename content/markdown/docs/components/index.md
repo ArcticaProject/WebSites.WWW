@@ -11,8 +11,18 @@ client-server based use cases.
 
 ## Core Components
 
-  * ArcticaSSH
+  * Arctica SSH
 
 ## Graphical Components
 
   * nx-libs
+
+## Client Components
+
+### UI Client Components
+
+  * Arctica Greeter
+
+### Backend Client Components
+
+  * Remote Logon Service
