@@ -1,8 +1,8 @@
 .. pub: 1
-.. description: The Arctica Project, Community.
+.. description: The Arctica Project's Community.
 .. title: Community
 
-# The Arctica Project, Community
+# The Arctica Project's Community
 
 The Arctica Project is a Free Software project intending to bring forth a
 remote computing framework of enterprise grade and quality.

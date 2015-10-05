@@ -1,9 +1,9 @@
 .. pub: 1
-.. description: The Arctica Project, Project Documentation.
+.. description: The Arctica Project, Documentation.
 .. title: Documentation
 
 
-# The Arctica Project, Project Documentation.
+# The Arctica Project, Documentation.
 
 This area of our site provides documentation for all software components published by The Arctica Project.
 
