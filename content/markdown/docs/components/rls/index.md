@@ -12,7 +12,7 @@ desktop possibilities.
 Remote Logon Service facilitates remote session startup via Arctica,
 X2Go, FreeRDP and Citrix's ICA Protocol.
 
-The Remote Login Service project has been forked from Ubuntu's Remote
-Login Service.
+The Remote Login Service project has originally been forked from Ubuntu's
+Remote Login Service.
 
-Source Code: https://github.com/ArcticaProject/remote-logon-service
+Source Code: <https://github.com/ArcticaProject/remote-logon-service>

@@ -32,4 +32,4 @@ agent on the server side. You can either connect two NXv3 proxy instances
 with each other (one in -S and one in -C mode), or you can connect NXv3
 proxy (-S mode) with an instance of NXv3 agent.
 
-Source code: https://github.com/ArcticaProject/nx-libs
+Source code: <https://github.com/ArcticaProject/nx-libs>
