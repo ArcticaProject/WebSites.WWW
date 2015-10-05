@@ -23,7 +23,7 @@ also under the CC-by-SA 4.0+ license.
 
 In cases, where content is copied from somewhere else and the original
 licensing has to be pertained, please make attribution of that content here
-and add a complete copy of the applicable license as COPYING.<other-license>
+and add a complete copy of the applicable license as COPYING.&lt;other-license&gt;
 to this Git repository.
 
 For elements on our website that are non-free the filename and/or path
