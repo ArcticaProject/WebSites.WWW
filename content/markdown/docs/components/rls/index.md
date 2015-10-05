@@ -1,6 +1,6 @@
 .. pub: 1
 .. description: Remote Logon Service
-.. title: remote-logon-service
+.. title: Remote Logon Service
 
 # Remote Logon Service
 
