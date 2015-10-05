@@ -15,7 +15,7 @@ higher) license. See COPYING file for the complete license text.
 
 However there may be some content that is non-free and licensed work.
 
-***IMPORTANT:*** This Git repository only contains content published
+**IMPORTANT:** This Git repository only contains content published
 under a free license. It must not contain non-free content.
 
 If contributors add content, ideally you publish your contributed content
