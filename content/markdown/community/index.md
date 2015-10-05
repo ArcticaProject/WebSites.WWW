@@ -26,7 +26,7 @@ A mailing list site is about to be setup. Stay tuned...
 ## Collaborative Development
 
 The code published by The Arctica Project is maintained on
-[Github|https://github.com/ArcticaProject].
+[Github](https://github.com/ArcticaProject).
 
 All code we publish has been and always will be licensed under a Free
 Software license (mostly one of the GPL'ish licenses).
@@ -34,4 +34,3 @@ Software license (mostly one of the GPL'ish licenses).
 ## Bug tracking
 
 For bug tracking, we use Github's issue trackers.
-
