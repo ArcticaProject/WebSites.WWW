@@ -26,5 +26,5 @@ licensing has to be pertained, please make attribution of that content here
 and add a complete copy of the applicable license as COPYING.&lt;other-license&gt;
 to this Git repository.
 
-For elements on our website that are non-free the filename and/or path
-will have "non-free" as part of the name or path.
+For elements on our website (https://arctica-project.org) that are non-free, the filename and/or path
+will have "non-free", "NONFREE", or "nonfree" as part of the name or path.
