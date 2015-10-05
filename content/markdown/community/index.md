@@ -7,7 +7,7 @@
 The Arctica Project is a Free Software project intending to bring forth a
 remote computing framework of enterprise grade and quality.
 
-The Arctica Project's greated resource is people that contribute. People
+The Arctica Project's greatest resource is people that contribute. People
 that feel attracted by what we do, people that join in and become part of our time.
 
 We invite you to get in touch with us...
