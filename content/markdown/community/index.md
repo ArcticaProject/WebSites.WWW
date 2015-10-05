@@ -12,7 +12,7 @@ that feel attracted by what we do, people that join in and become part of our te
 
 We invite you to get in touch with us...
 
-## Communitaction
+## Communication
 
 ### IRC
 
