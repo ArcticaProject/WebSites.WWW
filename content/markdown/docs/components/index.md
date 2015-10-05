@@ -13,7 +13,9 @@ client-server based use cases.
 
   * Arctica SSH
 
-## Graphical Components
+## Server Components
+
+### Graphical Server Backends
 
   * nx-libs
 
