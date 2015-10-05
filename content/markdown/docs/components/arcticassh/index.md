@@ -4,3 +4,5 @@
 
 # The ArcticaSSH 
 Event driven session managment and more.
+
+Source code: https://github.com/ArcticaProject/ArcticaSSH

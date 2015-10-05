@@ -14,3 +14,5 @@ X2Go, FreeRDP and Citrix's ICA Protocol.
 
 The Remote Login Service project has been forked from Ubuntu's Remote
 Login Service.
+
+Source Code: https://github.com/ArcticaProject/remote-logon-service
