@@ -27,6 +27,7 @@ Available lists are:
 
   * Arctica Project's Announcements Mailing List: [announcements@lists.arctica-project.org](https://lists.arctica-project.org/listinfo/announcements)
   * Arctica Project's Developers Mailing List: [devs@lists.arctica-project.org](https://lists.arctica-project.org/listinfo/devs)
+  * Arctica Project's Mailing List for Source Control Management: [scm@lists.arctica-project.org](https://lists.arctica-project.org/listinfo/scm)
 
 ## Collaborative Development
 
