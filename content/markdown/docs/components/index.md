@@ -5,7 +5,7 @@
 # Arctica Software Components
 
 The Arctica Project provides a pluggable system for server-based service
-infrastrucutres. One core functionality target is remote desktop / remote
+infrastructures. One core functionality target is remote desktop / remote
 application computing. But there could be more and different
 client-server based use cases.
 
