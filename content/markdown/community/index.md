@@ -19,6 +19,8 @@ We invite you to get in touch with us...
 The primary communication medium currently is IRC. Please join us on
 the #arctica channel on Freenode.
 
+Join us on IRC in your web browser with our [Kiwi IRC Web-Client](https://kiwiirc.com/client?settings=f0806f0b0080f3918e0a42eefdf2073d).
+
 ### Mailing lists
 
 For subscribing to our mailing lists, please visit our [mailing list site](https://lists.arctica-project.org).
