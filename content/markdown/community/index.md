@@ -21,7 +21,12 @@ the #arctica channel on Freenode.
 
 ### Mailing lists
 
-A mailing list site is about to be setup. Stay tuned...
+For subscribing to our mailing lists, please visit our [mailing list site](https://lists.arctica-project.org).
+
+Available lists are:
+
+  * Arctica Project's Announcements Mailing List: [announcements@lists.arctica-project.org](https://lists.arctica-project.org/listinfo/announcements)
+  * Arctica Project's Developers Mailing List: [devs@lists.arctica-project.org](https://lists.arctica-project.org/listinfo/devs)
 
 ## Collaborative Development
 
