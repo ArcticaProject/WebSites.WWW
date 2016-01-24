@@ -52,3 +52,5 @@ Once the meeting has ended an email will be sent to the devs@lists.arctica-proje
 
 - **#agreed** *To agree on something* (only chairs can agree on items)
   - Mark something as agreed.
+
+History of meetings can be found at http://arctica-project.org/meetbot/arctica/ .
