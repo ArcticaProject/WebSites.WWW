@@ -58,8 +58,9 @@ Location: #arctica on Freenode IRC
 
 Meeting Chair for this meeting will be <Real Name> (<IRC nick>).
 
-Please propose discussion topics via the [Arctica Project's developers'
-mailing list](https://lists.arctica-project.org/listinfo/devs).
+Please propose discussion topics via the Arctica Project's developers'
+mailing list:
+https://lists.arctica-project.org/listinfo/devs
 
 If you propose a topic, it is expected that you show up and present it,
 or have a substitute participate in the meeting. It is important that
