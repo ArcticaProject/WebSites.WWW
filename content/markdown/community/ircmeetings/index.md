@@ -264,4 +264,4 @@ For detailled instructions how to run the actual meeting, see above.
 ## History of meetings
 
 You can find the history of all meetings at
-(http://arctica-project.org/meetbot/arctica/log/).
+[http://arctica-project.org/meetbot/arctica/log/](http://arctica-project.org/meetbot/arctica/log/).
