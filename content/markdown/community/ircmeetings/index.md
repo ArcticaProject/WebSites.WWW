@@ -133,7 +133,9 @@ Bye,
 
 #### As Participant
 
-1. Join ``#arctica`` on ``irc.freenode.net``.
+1. Join ``#arctica`` on ``irc.freenode.net``. Those without an IRC client
+can use the WebIRC application from our friends at [Kiwi
+IRC](https://kiwiirc.com/client?settings=f0806f0b0080f3918e0a42eefdf2073d).
 
 1. During the introduction phase introduce yourself by typing: **#info**
 *Your Fullname*, *What-you-do-in-the-project*.
