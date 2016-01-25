@@ -2,7 +2,6 @@
 .. description: The Arctica Project's Community.
 .. title: IRC Meeting HowTo
 
-
 # Steps to run an IRC team meeting for the Arctica Project
 
 ## What is a team meeting?
