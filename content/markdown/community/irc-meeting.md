@@ -1,7 +1,26 @@
-# Steps to run an Arctica team meeting
+.. pub: 1
+.. description: The Arctica Project's Community.
+.. title: IRC Meeting HowTo
+
+# Steps to run an IRC team meeting for the Arctica Project
 * * *
 
-## Step1: Announcement
+## What is a team meeting?
+
+Basically, whenever it comes to the situation that more than one or two
+people start discussing issues relevant to the projects course, relevant
+to some aspect of the development within the Arctica Project.
+
+There are two types of meetings:
+
+- Regular / scheduled meetings
+- Spontaneous meetings that deserve a protocol
+
+## Spontaneous meetings
+
+## Regular / Scheduled Team Meetings
+
+### Step1: Announcement
 
 - Send an email announcement out to the list with the following template and agree with the members when to run it.
 
@@ -17,9 +36,9 @@ Some description and comments goes here
 The meeting will be in #arctica on irc.freenode.net, 21:00 UTC.
 ```
 
-## Step 2: Running the meeting
+### Step 2: Running the meeting
 
-### Start the meeting and set the topic
+#### Start the meeting and set the topic
 
 1. Join #arctica on irc.freenode.net.
 2. Start the meeting with **#startmeeting** *some meeting name*. This will be the meeting name.
@@ -28,7 +47,7 @@ The meeting will be in #arctica on irc.freenode.net, 21:00 UTC.
 
 Once the meeting has ended an email will be sent out to the devs@lists.arctica-project.org mail list.
 
-### Asign items to the topic
+#### Asign items to the topic
 
 - **#action** *some body will read the entire Internet*
   - If the specified nick says something during the meeting it will get the action assigned.
@@ -42,7 +61,8 @@ Once the meeting has ended an email will be sent out to the devs@lists.arctica-p
 
 - **#help** *Look for somebody who knows about xxx*
 
-### Meeting moderation
+#### Meeting moderation
+
 - Chair
   - The person who starts the meeting becomes the chair.
   - Those who become chair can guide the meeting.
@@ -53,6 +73,6 @@ Once the meeting has ended an email will be sent out to the devs@lists.arctica-p
 - **#agreed** *To agree on something* (only chairs can agree on items)
   - Mark something as agreed.
 
-# History of meetings
+## History of meetings
 
 You can find the history of all meetings at http://arctica-project.org/meetbot/arctica/log/ .
