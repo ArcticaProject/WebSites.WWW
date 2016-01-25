@@ -150,34 +150,33 @@ The following commands should only be used by the meeting's chair.
 
 The meeting's summary mail is always sent to the meeting's chair. The chair then is responsible for personalizing that mail and including information on the next agreed upon meeting. Example:
 
-```
-Subject: [Minutes] Arctica Project community meeting <this-date> + planning for next one <next-date>
+  Subject: [Minutes] Arctica Project community meeting <this-date> + planning for next one <next-date>
 
-Thanks to everyone who attended today's meeting! We had a long but exciting
-meeting filled with great discussions and positive news. If you missed it,
-or if you want to relive it, here are the minutes/logs:
+  Thanks to everyone who attended today's meeting! We had a long but exciting
+  meeting filled with great discussions and positive news. If you missed it,
+  or if you want to relive it, here are the minutes/logs:
 
-<copy-paste-automated-MeetBot-message-text-here>
+  <copy-paste-automated-MeetBot-message-text-here>
 
-The next meeting we have planned for <YYYY>-<MM>-<DD> @ <hh>:<mm> UTC.
-Meeting Chair for that meeting will be <ReaL Fullname> (<IRC-nick>).
+  The next meeting we have planned for <YYYY>-<MM>-<DD> @ <hh>:<mm> UTC.
+  Meeting Chair for that meeting will be <ReaL Fullname> (<IRC-nick>).
 
-Please propose discussion topics via the [Arctica Project's developers' mailing list](https://lists.arctica-project.org/listinfo/devs).
+  Please propose discussion topics via the [Arctica Project's developers' mailing list](https://lists.arctica-project.org/listinfo/devs).
 
-If you propose a topic, it is expected that you show up and present it, or
-have a substitute participate in the meeting. It is important that you're
-present at the meeting to guide the discussions in the direction you want,
-so we do not spend time guessing what kind of info/answers you may be
-looking for.
+  If you propose a topic, it is expected that you show up and present it, or
+  have a substitute participate in the meeting. It is important that you're
+  present at the meeting to guide the discussions in the direction you want,
+  so we do not spend time guessing what kind of info/answers you may be
+  looking for.
 
-NOTE: Propose your topic by <weekday-and-date-two-days-before-the-meeting>.
-Any topics added after that will be considered for the following meeting. The next
-meeting's chair will send out the meeting invitation / reminder with confirmed agenda
-one day before the meeting.
+  NOTE: Propose your topic by <weekday-and-date-two-days-before-the-meeting>.
+  Any topics added after that will be considered for the following meeting. The next
+  meeting's chair will send out the meeting invitation / reminder with confirmed agenda
+  one day before the meeting.
 
-Bye,
-  <Real Name> (<IRC nick>)
-```
+  Bye,
+    <Real Name> (<IRC nick>)
+
 
 ## Spontaneous Meetings / Discussions
 
