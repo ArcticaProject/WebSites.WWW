@@ -195,7 +195,7 @@ and date. Normally you do enter this command for that five minutes before
 the end of the meeting: **#topic** *Wrap-up and planning next meeting
 (5min)*
 
-2. End the meeting with **#endmeeting** when the meeting time is over. 
+1. End the meeting with **#endmeeting** when the meeting time is over.
 
 ### Wrap-up Mail and Announcement of Next Meeting
 
