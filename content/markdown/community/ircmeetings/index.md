@@ -24,7 +24,7 @@ Meeting announcements are either send anew or are included in the last meetings 
 Let's presume we plan a new meeting from scratch.
 
 - Preparations:
-  - Find a date/time that works for as many people on the project. Please note, that we have various team members living in various time zones. Use ```#arctica``` on Freenode IRC or the [developers' mailing list](https://lists.arctica-project.org/listinfo/devs) for this.
+  - Find a date/time that works for as many people on the project. Please note, that we have various team members living in various time zones. Use ``#arctica`` on Freenode IRC or the [developers' mailing list](https://lists.arctica-project.org/listinfo/devs) for this.
   - Once a date/time for the meeting has been agreed upon , visit [Time and Date's timezone
   converter](http://www.timeanddate.com/worldclock/fixedform.html) and
   prepare an event query. The query is used in meeting invitation mails, so that people don't have to think about date/time conversions regarding different time zones that much.
@@ -113,14 +113,14 @@ Bye,
   - Participants should not use meetbot commands (but could).
 
 #### As Participant
-1. Join ```#arctica``` on ```irc.freenode.net```.
+1. Join ``#arctica`` on ``irc.freenode.net``.
 2. During the introduction phase introduce yourself by typing: **#info** *Your Fullname*, *What-you-do-in-the-project*.
 3. Whenever you feel like contributing, simply type something.
 4. If you present any of the topics from the agenda, you may have prepared some pre-written text that you want to copy-paste into the chat. You can do this, but make sure to limit yourself when copy-pasting such content.
 
 #### As Meeting Chair
 ##### Start the Meeting and Set the Topic
-1. Join ```#arctica``` on ```irc.freenode.net```.
+1. Join ``#arctica`` on ``irc.freenode.net``.
 2. Start the meeting with **#startmeeting** *Arctica Project IRC meeting, <dd>-<Month> @ <hh>:<mm> UTC* at the agreed upon starting time of the meeting. This will be the meeting name.
 3. Set the channel's and meeting's topic via the first usage of the command: **#topic** *Arctica Project IRC meeting, <dd>-<Month> @ <hh>:<mm> UTC*
 4. Then loop over the meeting's agenda with **#topic** *agenda top-1*, **#topic** *agenda top-2*, etc. Do this in the timely order of topics as listed in the invitation mail's agenda. Normally the first item that follows up is: **#topic** *Introduction (5min)*
