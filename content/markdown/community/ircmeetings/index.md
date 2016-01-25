@@ -27,17 +27,17 @@ Meeting announcements are either send anew or are included in the last
 meetings summary mail. Let's presume we plan a new meeting from scratch.
 
 - Preparations:
-  - Find a date/time that works for as many people on the project. Please
+..- Find a date/time that works for as many people on the project. Please
   note, that we have various team members living in various time zones.
   Use ``#arctica`` on Freenode IRC or the [developers' mailing
   list](https://lists.arctica-project.org/listinfo/devs) for this.
-  - Once a date/time for the meeting has been agreed upon , visit [Time
+..- Once a date/time for the meeting has been agreed upon , visit [Time
   and Date's timezone
   converter](http://www.timeanddate.com/worldclock/fixedform.html) and
   prepare an event query. The query is used in meeting invitation mails,
   so that people don't have to think about date/time conversions
   regarding different time zones that much.
-  - Generate a shortened URL for that query's result at https://bitly.com/.
+..- Generate a shortened URL for that query's result at https://bitly.com/.
 - Send an email announcement out to the [deverlopers' mailing
 list](https://lists.arctica-project.org/listinfo/devs) with the following
 template.
@@ -122,14 +122,14 @@ Bye,
 #### Meeting moderation
 
 - Meeting Chair
-  - The person who starts the meeting becomes the chair.
-  - Those who become chair can guide the meeting.
-  - Chairs can be added or removed with **#chair** *nick* and **#unchair** *nick*.
-  - The chair(s) control the meeting's report via sending commands to the MeetBot.
+..- The person who starts the meeting becomes the chair.
+..- Those who become chair can guide the meeting.
+..- Chairs can be added or removed with **#chair** *nick* and **#unchair** *nick*.
+..- The chair(s) control the meeting's report via sending commands to the MeetBot.
 - Participants
-  - Everyone else is a meeting participant
-  - Participants can post during the complete course of the meeting.
-  - Participants should not use meetbot commands (but could).
+..- Everyone else is a meeting participant
+..- Participants can post during the complete course of the meeting.
+..- Participants should not use meetbot commands (but could).
 
 #### As Participant
 
@@ -176,15 +176,15 @@ list](https.//lists.arctica-rpoject.org/listinfo/devs/).
 The following commands should only be used by the meeting's chair.
 
 - **#action** *somebody will read the entire Internet*
-  - If the specified nick says something during the meeting it will get the action assigned.
-  - The task is recognized to the nick even if it doesn't write anything with the **#some** *nick* command.
+..- If the specified nick says something during the meeting it will get the action assigned.
+..- The task is recognized to the nick even if it doesn't write anything with the **#some** *nick* command.
 - **#info** *To summarize sum information presented throughout the discussion*
 - **#idea** *Announce some idea*
 - **#link** *here is some {url} with useful information about about xxx*
 - **#help** *Look for somebody who knows about xxx*
 - The last item can be removed with **#undo**.
 - **#agreed** *To agree on something* (only chairs can agree on items)
-  - Mark something as agreed.
+..- Mark something as agreed.
 
 ##### End the Meeting
 
@@ -263,4 +263,3 @@ For detailled instructions how to run the actual meeting, see above.
 
 You can find the history of all meetings at
 http://arctica-project.org/meetbot/arctica/log/.
-
