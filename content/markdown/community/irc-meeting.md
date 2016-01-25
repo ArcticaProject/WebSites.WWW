@@ -8,10 +8,10 @@
 ## What is a team meeting?
 
 Basically, whenever it comes to the situation that more than one or two
-people start discussing issues relevant to the projects course, relevant
+people start discussing issues relevant to the project's course, relevant
 to some aspect of the development within the Arctica Project.
 
-There are two types of meetings:
+Saying this, there are at least two types of meetings:
 
 - Regular / scheduled meetings
 - Spontaneous meetings that deserve a protocol
