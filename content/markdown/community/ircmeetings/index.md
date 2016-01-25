@@ -108,7 +108,7 @@ Current proposed topics:
 - Wrap up and next meeting (5 min)
 
 Please familiarize yourself with the topics before the meeting, as well
-as the common Meetbot commands https://wiki.debian.org/MeetBot (it's used
+as the common MeetBot commands https://wiki.debian.org/MeetBot (it's used
 for meeting management and logging)
 
 Thanks and see you tomorrow!
@@ -129,7 +129,7 @@ Bye,
 *  Participants
     * Everyone else is a meeting participant
     * Participants can post during the complete course of the meeting.
-    * Participants should not use meetbot commands (but could).
+    * Participants cannot use MeetBot commands.
 
 #### As Participant
 
