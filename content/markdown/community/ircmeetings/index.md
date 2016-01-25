@@ -16,8 +16,8 @@ Project.
 
 Saying this, there are at least two types of meetings:
 
-- Regular / scheduled meetings
-- Spontaneous meetings that deserve a protocol
+* Regular / scheduled meetings
+* Spontaneous meetings that deserve a protocol
 
 ## Regular / Scheduled Team Meetings
 
@@ -27,16 +27,19 @@ Meeting announcements are either send anew or are included in the last
 meetings summary mail. Let's presume we plan a new meeting from scratch.
 
 * Preparations:
+
     * Find a date/time that works for as many people on the project. Please
     note, that we have various team members living in various time zones.
     Use ``#arctica`` on Freenode IRC or the [developers' mailing
     list](https://lists.arctica-project.org/listinfo/devs) for this.
+
     * Once a date/time for the meeting has been agreed upon , visit [Time
     and Date's timezone
     converter](http://www.timeanddate.com/worldclock/fixedform.html) and
     prepare an event query. The query is used in meeting invitation
     mails, so that people don't have to think about date/time
     conversions regarding different time zones that much.
+
     * Generate a shortened URL for that query's result at https://bitly.com/.
 
 * Send an email announcement out to the [deverlopers' mailing
