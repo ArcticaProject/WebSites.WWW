@@ -31,7 +31,6 @@ meetings summary mail. Let's presume we plan a new meeting from scratch.
     note, that we have various team members living in various time zones.
     Use ``#arctica`` on Freenode IRC or the [developers' mailing
     list](https://lists.arctica-project.org/listinfo/devs) for this.
-
     * Once a date/time for the meeting has been agreed upon , visit [Time
     and Date's timezone
     converter](http://www.timeanddate.com/worldclock/fixedform.html) and
@@ -39,12 +38,12 @@ meetings summary mail. Let's presume we plan a new meeting from scratch.
     mails, so that people don't have to think about date/time
     conversions regarding different time zones that much.
     * Generate a shortened URL for that query's result at https://bitly.com/.
+
 * Send an email announcement out to the [deverlopers' mailing
 list](https://lists.arctica-project.org/listinfo/devs) with the following
 template.
 
 ```
-
 Subject: Announcement of Arctica Project IRC meeting, <dd>-<Month> @ <hh>:<mm> UTC
 
 A new IRC meeting of Arctica Project members (and people otherwise
