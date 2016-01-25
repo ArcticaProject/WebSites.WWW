@@ -79,9 +79,7 @@ Bye,
   <Real Name> (<IRC nick>)
 ```
 
-
-
-### Step 1: Invitation / Reminder Mail
+### Step 2: Invitation / Reminder Mail
 
 One day (~24h) before the meeting, the official meeting invitation
 (acting as a reminder / update mail) containing the official meeting
@@ -120,7 +118,7 @@ Bye,
   <Chairman's full name>
 ```
 
-### Step 2: Running the meeting
+### Step 3: Running the meeting
 
 #### Meeting moderation
 
@@ -198,7 +196,7 @@ the end of the meeting: **#topic** *Wrap-up and planning next meeting
 
 1. End the meeting with **#endmeeting** when the meeting time is over.
 
-### Wrap-up Mail and Announcement of Next Meeting
+### Step 4: Wrap-up Mail and Announcement of Next Meeting
 
 The meeting's summary mail is always sent to the meeting's chair. The
 chair then is responsible for personalizing that mail and including
