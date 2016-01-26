@@ -42,7 +42,7 @@ meetings summary mail. Let's presume we plan a new meeting from scratch.
     * Generate a shortened URL for that query's result at https://bitly.com/.
 
 * Send an email announcement out to the [deverlopers' mailing
-list](https://lists.arctica-project.org/listinfo/devs) with the following
+list](https://lists.arctica-project.org/listinfo/devs) using the following
 template.
 
 ```
@@ -166,36 +166,37 @@ command: **#topic** *Arctica Project IRC meeting, <dd>-<Month> @
 listed in the invitation mail's agenda. Normally the first item that
 follows up is: **#topic** *Introduction (5min)*
 
-Once the meeting has ended an email will be sent out to the meeting's
-chair containing URLs# to the meeting's summary page and backlog. The
-sent out mail template will be personalized and then forwarded to the
-[Arctica Project's developer's mailing
-list](https.//lists.arctica-rpoject.org/listinfo/devs/).
-
 
 ##### Assign Items to the Current Topic
 
-The following commands should only be used by the meeting's chair.
+The following commands should only be used by the meeting's chair. Except
+for the **#info** command during the introduction phase.
 
 * **#action** *somebody will read the entire Internet*
     * If the specified nick says something during the meeting it will get the action assigned.
     * The task is recognized to the nick even if it doesn't write anything with the **#some** *nick* command.
-* **#info** *To summarize sum information presented throughout the discussion*
+* **#info** *To summarize some information presented throughout the discussion*
 * **#idea** *Announce some idea*
 * **#link** *here is some {url} with useful information about about xxx*
 * **#help** *Look for somebody who knows about xxx*
 * The last item can be removed with **#undo**.
 * **#agreed** *To agree on something* (only chairs can agree on items)
-    * Mark something as agreed.
 
 ##### End the Meeting
 
 1. Don't forget to wrap up the meeting and agree on next meeting's time
-and date. Normally you do enter this command for that five minutes before
-the end of the meeting: **#topic** *Wrap-up and planning next meeting
-(5min)*
+and date. As the meeting's chair, you normally want to use this command
+five minutes before the end of the meeting: **#topic** *Wrap-up and
+planning of next meeting (5min)*
 
 1. End the meeting with **#endmeeting** when the meeting time is over.
+
+Once the meeting has ended, an email will be sent out to the meeting's
+chair containing URLs to the meeting's summary page and backlog. The
+sent out mail template will be personalized and then forwarded to the
+[Arctica Project's developer's mailing
+list](https.//lists.arctica-rpoject.org/listinfo/devs/).
+
 
 ### Step 4: Wrap-up Mail and Announcement of Next Meeting
 
