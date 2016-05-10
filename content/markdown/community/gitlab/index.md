@@ -14,7 +14,9 @@ Simply follow the _Sign in with <Github-Logo>_ link under the [site's login box]
 
 Once you have signed up with our GitLab site, you are logged out again, as one of the Arctica GitLab maintainers has to activate your account.
 
-For that to happen, please send an e-Mail to our [developer's mailing list](https://lists.arctica-project.org/listinfo/devs) and introduce yourself and let us know why you want to have authenticated access to our GitLab site.
+For that to happen, please subscribe to our [developer's mailing list](https://lists.arctica-project.org/listinfo/devs), send a mail to that list and introduce yourself. Please especially let us know why you want to have authenticated access to our GitLab site.
+
+Let us know how you came across the Arctica Project and what you have in mind with that. We are interested in you, once you have come that far. We potentially see you as a resource of expertise now.
 
 ## Cloning Repositories
 
