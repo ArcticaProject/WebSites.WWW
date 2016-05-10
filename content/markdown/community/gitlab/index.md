@@ -25,12 +25,14 @@ Once your account has been activated, please upload an SSH public key of yours i
 The generic syntax for Git cloning is this:
 
 ```
+
 $ git clone git@git.arctica-project.org:<group>/<git-project>.git
 ```
 
 So, for example, the ``build.git`` repositories in the nx-X11-rebase group can be cloned like this:
 
 ```
+
 $ git clone git@git.arctica-project.org:nx-X11-rebase/build.git
 ```
 
