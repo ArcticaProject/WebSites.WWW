@@ -6,9 +6,9 @@
 
 ## Signing up
 
-The possibly easiest way of signing up is through Github. The Arctica Project's GitLab site allows automatic account registration via Github's OpenID service.
+The possibly easiest way of signing up for an account on the Arctica GitLab Server is through Github's OpenID service.
 
-Simply follow the /Sign in with <Github-Logo>/ link under the [site's login box](https://git.arctica-project.org).
+Simply follow the _Sign in with <Github-Logo>_ link under the [site's login box](https://git.arctica-project.org).
 
 ## Contacting the Arctica GitLab site's maintainers
 
