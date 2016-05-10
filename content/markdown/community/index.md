@@ -33,12 +33,14 @@ Available lists are:
 
 ## Collaborative Development
 
-The code published by The Arctica Project is maintained on
+The majority of code published by The Arctica Project is maintained on
 [Github](https://github.com/ArcticaProject).
+
+Some bleeding edge, experimental or otherwise categorized code may also be published on our [GitLab](./gitlab) site.
 
 All code we publish has been and always will be licensed under a Free
 Software license (mostly one of the GPL'ish licenses).
 
 ## Bug tracking
 
-For bug tracking, we use Github's issue trackers.
+For bug tracking, depending on where the "buggy" code is hosted, we either use Github's issue trackers or the issue trackers provided by our [GitLab](./gitlab) instance.
