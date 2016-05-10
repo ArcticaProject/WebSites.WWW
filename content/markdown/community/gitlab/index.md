@@ -36,4 +36,4 @@ So, for example, the ``build.git`` repository in the nx-X11-rebase group can be 
 $ git clone git@git.arctica-project.org:nx-X11-rebase/build.git
 ```
 
-We are looking forward to your participation. In whatever that may be.
+We are looking forward to your participation. In whatever way that may be.
