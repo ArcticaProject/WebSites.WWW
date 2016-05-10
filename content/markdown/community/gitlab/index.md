@@ -16,7 +16,7 @@ Once you have signed up with our GitLab site, you are logged out again, as one o
 
 For that to happen, please subscribe to our [developer's mailing list](https://lists.arctica-project.org/listinfo/devs), send a mail to that list and introduce yourself. Please especially let us know why you want to have authenticated access to our GitLab site.
 
-Let us know how you came across the Arctica Project and what you have in mind with that. We are interested in you, once you have come that far. We potentially see you as a resource of expertise now.
+Let us know how you came across the Arctica Project and what you have in mind with it. We are interested in you, once you have come that far. We potentially see you as a resource of expertise now.
 
 ## Cloning Repositories
 
